@@ -10,7 +10,7 @@ authors = ["Owez <root@ogriffiths.com>"]
 edition = "2021"
 
 [dependencies.rocket]
-version = "0.5-rc.2"
+version = "0.5.0-rc.2"
 
 [dependencies]
 base64 = "0.13"
